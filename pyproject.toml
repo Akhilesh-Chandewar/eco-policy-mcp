@@ -25,8 +25,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/eco-policy-mcp/eco-policy-mcp"
-Issues = "https://github.com/eco-policy-mcp/eco-policy-mcp/issues"
+Homepage = "https://github.com/Akhilesh-Chandewar/eco-policy-mcp"
+Issues = "https://github.com/Akhilesh-Chandewar/eco-policy-mcp/issues"
 
 [project.scripts]
 eco-policy-mcp = "eco_policy_mcp.server:main"

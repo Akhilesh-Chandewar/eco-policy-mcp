@@ -29,7 +29,7 @@ class Settings:
     user_agent: str = field(
         default_factory=lambda: os.getenv(
             "ECO_USER_AGENT",
-            "eco-policy-mcp/0.1 (+https://github.com/eco-policy-mcp/eco-policy-mcp)",
+            "eco-policy-mcp/0.1 (+https://github.com/Akhilesh-Chandewar/eco-policy-mcp)",
         )
     )
 
