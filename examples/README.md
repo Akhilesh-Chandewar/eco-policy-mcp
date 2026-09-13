@@ -1,5 +1,8 @@
 # Connecting any MCP client
 
+Published on PyPI: https://pypi.org/project/eco-policy-mcp/ · Listed in the
+official MCP Registry as `io.github.Akhilesh-Chandewar/eco-policy-mcp`.
+
 `eco-policy-mcp` is client-agnostic: it speaks standard MCP (stdio +
 streamable-HTTP), so **any** MCP-compatible client works — Claude Desktop,
 Cursor, Gemini CLI, VS Code, Cline, Windsurf, custom agents, anything.
@@ -29,7 +32,7 @@ Drop this shape into:
 | VS Code (Copilot) | `.vscode/mcp.json`, same shape |
 | Cline / others | same `command` + `args` shape |
 
-Until the package is on PyPI, run from this repo instead:
+To run from a local clone instead of PyPI:
 
 ```json
 {

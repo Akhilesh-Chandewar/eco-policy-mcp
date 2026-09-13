@@ -2,6 +2,11 @@
 
 <!-- mcp-name: io.github.Akhilesh-Chandewar/eco-policy-mcp -->
 
+[![PyPI](https://img.shields.io/pypi/v/eco-policy-mcp?color=blue&logo=pypi)](https://pypi.org/project/eco-policy-mcp/)
+[![MCP Registry](https://img.shields.io/badge/MCP_Registry-listed-7C3AED)](https://registry.modelcontextprotocol.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/Akhilesh-Chandewar/eco-policy-mcp)](https://github.com/Akhilesh-Chandewar/eco-policy-mcp/releases)
+
 **An MCP server for Indian finance data** — mutual-fund NAVs, GST &
 income-tax calculators, RBI policy rates and NSE market data — built for
 **any MCP client** (Claude, Cursor, Gemini CLI, VS Code, Cline, custom
@@ -11,11 +16,25 @@ Every successful response carries a **provenance block** (`source`, `as_of`,
 `reference`), so AI agents can cite where each number came from instead of
 hallucinating it.
 
+## Links
+
+| Resource | URL |
+|---|---|
+| GitHub repository | https://github.com/Akhilesh-Chandewar/eco-policy-mcp |
+| PyPI package | https://pypi.org/project/eco-policy-mcp/ |
+| MCP Registry name | `io.github.Akhilesh-Chandewar/eco-policy-mcp` (active on [registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io/)) |
+| Releases | https://github.com/Akhilesh-Chandewar/eco-policy-mcp/releases |
+| Issues | https://github.com/Akhilesh-Chandewar/eco-policy-mcp/issues |
+| License | [MIT](LICENSE) |
+
 ## Install & run
 
 ```bash
-# Run with any MCP client via uvx (once published):
+# Run with any MCP client via uvx (installs automatically from PyPI):
 uvx eco-policy-mcp
+
+# Or pin the version:
+uvx eco-policy-mcp@0.1.0
 
 # From a clone:
 uv sync
