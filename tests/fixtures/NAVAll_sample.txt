@@ -1,0 +1,20 @@
+Mutual Fund Library
+
+Aditya Birla Sun Life Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date
+119551;INF209KA12Z1;INF209KA13Z9;Aditya Birla Sun Life Liquid Fund-GROWTH;394.26580;05-Sep-2026
+119598;INF209KA12Z9;INF209KA14Z7;Aditya Birla Sun Life Liquid Fund - DIRECT - GROWTH;398.73950;05-Sep-2026
+
+HDFC Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date
+119063;INF179K01XQ1;INF179K01XQ2;HDFC Balanced Advantage Fund - Growth;498.230000;05-Sep-2026
+119070;INF179K01XT9;INF179K01XT7;HDFC Balanced Advantage Fund - DIRECT - Growth;508.445000;05-Sep-2026
+
+ICICI Prudential Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date
+120754;INF109K01Z48;INF109K01Z55;ICICI Prudential Nifty 50 Index Fund-Growth;268.850000;05-Sep-2026
+120755;INF109K01Z56;INF109K01Z63;ICICI Prudential Nifty 50 Index Fund - DIRECT - Growth;266.010000;05-Sep-2026
+
+360 ONE Mutual Fund
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date
+151165;INF579M01AN2;-;360 ONE ELSS Tax Saver Nifty 50 Index Fund;Direct Plan;GROWTH Option;13.3144;11-Sep-2026

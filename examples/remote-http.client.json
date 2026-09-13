@@ -1,0 +1,11 @@
+{
+  "//": "Generic remote config: point ANY MCP client at the HTTP endpoint.",
+  "//1": "Start the server:  eco-policy-mcp --http --port 8000",
+  "//2": "Point your client at:  http://127.0.0.1:8000/mcp  (streamable-http transport)",
+  "mcpServers": {
+    "eco-policy-mcp": {
+      "url": "http://127.0.0.1:8000/mcp",
+      "transport": "streamable-http"
+    }
+  }
+}

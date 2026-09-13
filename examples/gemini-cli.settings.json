@@ -1,0 +1,10 @@
+// Gemini CLI: add to ~/.gemini/settings.json under "mcpServers"
+// Any other stdio-speaking MCP client uses the same shape.
+{
+  "mcpServers": {
+    "eco-policy-mcp": {
+      "command": "uvx",
+      "args": ["eco-policy-mcp"]
+    }
+  }
+}
