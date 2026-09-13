@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.akhilesh-chandewar/eco-policy-mcp",
   "title": "Eco Policy MCP",
-  "description": "MCP server for Indian finance data: mutual-fund NAVs (AMFI), GST and income-tax calculators (FY 2026-27), RBI policy rates and NSE market data. Works with any MCP client over stdio or streamable-HTTP; every response carries provenance (source + as-of timestamp).",
+  "description": "Indian finance MCP server: mutual-fund NAVs, GST & income-tax tools, RBI rates, NSE quotes.",
   "version": "0.1.0",
   "repository": {
     "url": "https://github.com/Akhilesh-Chandewar/eco-policy-mcp",
