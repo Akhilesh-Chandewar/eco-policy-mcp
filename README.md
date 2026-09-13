@@ -1,5 +1,7 @@
 # eco-policy-mcp
 
+<!-- mcp-name: io.github.akhilesh-chandewar/eco-policy-mcp -->
+
 **An MCP server for Indian finance data** — mutual-fund NAVs, GST &
 income-tax calculators, RBI policy rates and NSE market data — built for
 **any MCP client** (Claude, Cursor, Gemini CLI, VS Code, Cline, custom
